@@ -7,5 +7,6 @@ You have to provide the username and password once, It is really not secured to 
 Before running the scrit you have to run the command pip install -r requirements.txt
 
 You have to change the 5 first variables:
-![image](https://github.com/SyRoxS1/StormShield2FA-PyAutomation/assets/114361806/1f365f33-b259-4faa-ba64-0b28b170f24b)
+![image](https://github.com/SyRoxS1/StormShield2FA-Automation/assets/114361806/7ab49b7c-53db-4799-8d6f-33b6414d75b0)
+
 
